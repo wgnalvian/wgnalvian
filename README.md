@@ -1,4 +1,4 @@
-# Hello, Guys, im Alvian  ! <img src="https://raw.githubusercontent.com/wgnalvian/wgnalvian/main/wave.gif" width="30px">
+# Hello Guys, im Alvian (wong javanese) ! <img src="https://raw.githubusercontent.com/wgnalvian/wgnalvian/main/wave.gif" width="30px">
 
 
 
