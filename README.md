@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Alvian
-- 👀 I’m interested in a programming especially web programming
-- 🌱 💞️📫 
+# Hello, Guys, im Alvian  ! <img src="https://raw.githubusercontent.com/wgnalvian/wgnalvian/main/wave.gif" width="30px">
+
 
 
 <!---
